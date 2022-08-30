@@ -1,0 +1,23 @@
+{
+  "name": "dev-november-",
+  "version": "1.0.0",
+  "description": "fall 2022 spin up v2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astricklandd/dev-november-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astricklandd/dev-november-/issues"
+  },
+  "homepage": "https://github.com/astricklandd/dev-november-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
